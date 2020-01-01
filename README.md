@@ -2,9 +2,7 @@
 
 a list excellently unique written articles...
 
-### Resources
-
-- SERIES:
+### Series
 
   - THE SQL SAVANT
     - [JOINS IN SQL: INNER JOINS](https://dev.to/...)
