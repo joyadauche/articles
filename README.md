@@ -11,6 +11,7 @@ a list excellently unique written articles...
     - [LIST COMPREHENSIONS](https://dev.to/iamjoynwachukwu/the-proficient-pythonista-list-comprehensions-3c3)
   
  - THE PANDAS PUNDIT
+    - [ACCESSING DATA IN DATAFRAMES]
  
  - ...
 
