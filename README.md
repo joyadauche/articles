@@ -14,5 +14,5 @@ a list excellently unique written articles...
     - [ACCESSING DATA IN DATAFRAMES](https://dev.to/iamjoynwachukwu/the-pandas-pundit-accessing-data-in-dataframes-4164)
  
  - THE DATA VIZ WIZ
-    - [INTRODUCING MATPLOTLIB]
+    - [INTRODUCING MATPLOTLIB]()
 
