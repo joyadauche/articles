@@ -17,5 +17,5 @@ a list excellently unique written articles...
     - [INTRODUCING MATPLOTLIB](https://dev.to/iamjoynwachukwu/the-data-viz-wiz-introducing-matplotlib-54g5)
     
 - THE ML MAVEN
-    - [INTRODUCING THE CONFUSION MATRIX]
+    - [INTRODUCING THE CONFUSION MATRIX](https://dev.to/iamjoynwachukwu/the-ml-maven-introducing-the-confusion-matrix-1de7)
 
