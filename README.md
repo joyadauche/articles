@@ -19,4 +19,5 @@ a list excellently unique written articles...
 - THE ML MAVEN
     - [INTRODUCING THE CONFUSION MATRIX](https://dev.to/iamjoynwachukwu/the-ml-maven-introducing-the-confusion-matrix-1de7)
 
-- THE BIG DATA ...
+- THE BIG DATA BRAVURA
+    - [INTRODUCING APACHE SPARK](https://dev.to/iamjoynwachukwu/the-big-data-bravura-introducing-apache-spark-2od)
