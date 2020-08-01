@@ -22,5 +22,6 @@ a list excellently unique written articles...
 - THE BIG DATA BRAVURA
     - [INTRODUCING APACHE SPARK](https://dev.to/iamjoynwachukwu/the-big-data-bravura-introducing-apache-spark-2od)
     
-- next article series...
+- THE MATH ML MAESTRO
+   - [Introducing Linear Algebra Applications](https://dev.to/iamjoynwachukwu/the-math-ml-maestro-introducing-linear-algebra-applications-1imb)
 
