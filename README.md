@@ -27,4 +27,4 @@ a list excellently unique written articles...
    
 - THE AI ALPHA GEEK
    - [It starts with EDA! - PART A](https://dev.to/iamjoynwachukwu/the-ai-alpha-geek-it-starts-with-eda-part-a-2l1i)
-
+   - [It starts with EDA! - PART B](...)
