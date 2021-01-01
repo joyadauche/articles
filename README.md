@@ -6,6 +6,7 @@ a list excellently unique written articles...
 
 - THE SQL SAVANT
   - [JOINS IN SQL: INNER JOINS](https://dev.to/iamjoynwachukwu/the-sql-savant-inner-joins-in-sql-37ak)
+  - [JOINS IN SQL: OUTER JOINS](https://dev.to/joyadauche/the-sql-savant-outer-joins-in-sql-1gfa)
   
 - THE PROFICIENT PYTHONISTA
 
