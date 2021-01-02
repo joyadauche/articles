@@ -9,7 +9,6 @@ a list excellently unique written articles...
   - [JOINS IN SQL: OUTER JOINS](https://dev.to/joyadauche/the-sql-savant-outer-joins-in-sql-1gfa)
   
 - THE PROFICIENT PYTHONISTA
-
   - [LIST COMPREHENSIONS](https://dev.to/iamjoynwachukwu/the-proficient-pythonista-list-comprehensions-3c3)
 
 - THE PANDAS PUNDIT
