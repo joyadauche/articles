@@ -25,6 +25,7 @@ a list excellently unique written articles...
 
 - THE MATH ML MAESTRO
   - [Introducing Linear Algebra Applications](https://dev.to/iamjoynwachukwu/the-math-ml-maestro-introducing-linear-algebra-applications-1imb)
+
 - THE AI ALPHA GEEK
   - [It starts with EDA! - PART A](https://dev.to/iamjoynwachukwu/the-ai-alpha-geek-it-starts-with-eda-part-a-2l1i)
   - [It starts with EDA! - PART B](https://dev.to/iamjoynwachukwu/the-ai-alpha-geek-it-starts-with-eda-part-b-8l3)
