@@ -1,6 +1,6 @@
 ## Articles
 
-a list excellently unique written articles...
+a list of excellently unique written articles...
 
 ### Series
 
